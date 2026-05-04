@@ -1,4 +1,4 @@
-# SnapClass - AI-Powered Attendance Management System
+# SnapClass - AI-Powered Attendance Management System 
 
 ## 📋 Project Overview
 
